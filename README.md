@@ -30,7 +30,7 @@
    
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ebenezer-15&theme=radical"/>
  
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=JewelSama&column=4&margin-w=7&margin-h=7&theme=radical"/> --> 
+ <img src="https://github-profile-trophy.vercel.app/?username=Ebenezer-15&column=4&margin-w=7&margin-h=7&theme=radical"/> 
 
 
 <!--
